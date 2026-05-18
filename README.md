@@ -124,7 +124,7 @@ elizaberth = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizaberth)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizaberth-mwaba-a528b0261)
 
 *Open to connecting with professionals at the interchange of data and development in Africa 🌍*
 
