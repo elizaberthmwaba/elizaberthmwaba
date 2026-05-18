@@ -11,9 +11,9 @@
 
 ### 🌍 Transforming Raw Data into Actionable Insights - Across Africa and Beyond
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizaberth)
-[![Profile Views](https://komarev.com/ghpvc/?username=elizaberth&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/elizaberth)
-[![GitHub followers](https://img.shields.io/github/followers/elizaberth?style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/elizaberth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizaberth-mwaba-a528b0261)
+[![Profile Views](https://komarev.com/ghpvc/?username=elizaberth&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/elizaberthmwaba)
+[![GitHub followers](https://img.shields.io/github/followers/elizaberth?style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/elizaberthmwaba)
 
 </div>
 
